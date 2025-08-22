@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shivam
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning Life
-- 💞️ I’m looking for a girl to collaborate on MyLife
 - 📫 How to reach me https://itisshivam.github.io/ItZShivam/ItIsShivam.html
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Music can Heal every broken one
