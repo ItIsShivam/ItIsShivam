@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Developer-blue?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/Interests-Gaming%20%7C%20Music-purple?style=for-the-badge" alt="Interests">
+  <img src="https://img.shields.io/badge/Interests-Gaming%20%7C%20Music%20%7C%20Travelling-purple?style=for-the-badge" alt="Interests"><img src="https://img.shields.io/badge/Interests-Gaming%20%7C%20Music-purple?style=for-the-badge" alt="Interests">
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-black?style=for-the-badge" alt="Pronouns">
 </p>
 
@@ -33,10 +33,11 @@ Here are the core technologies I use to build things, alongside the platforms th
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-**Passions:**
+**Interests:**
 <p align="left">
   <img src="https://img.shields.io/badge/Gaming-Gamepad?style=for-the-badge&color=EA4C89&logo=nintendo-switch&logoColor=white" alt="Gaming">
   <img src="https://img.shields.io/badge/Music-Listener?style=for-the-badge&color=1DB954&logo=spotify&logoColor=white" alt="Music Lover">
+  <img src="https://img.shields.io/badge/Travelling-Explorer?style=for-the-badge&color=FF8C00&logo=googlemaps&logoColor=white" alt="Travelling">
 </p>
 
 ---
